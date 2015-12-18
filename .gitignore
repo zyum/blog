@@ -1,0 +1,8 @@
+*.bak
+.svn
+*.log
+log-*
+*.swp
+application\config\config.php
+application\config\database.php
+.idea
